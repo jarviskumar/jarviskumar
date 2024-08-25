@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Tic Tac Toe Game**
 
-- 👨‍💻 All of my projects are available at [https://github.io/jarviskumar](https://github.io/jarviskumar)
+- 👨‍💻 All of my projects are available at [https://github.com/jarviskumar](https://github.io/jarviskumar)
 
 - ⚡ Fun fact **I Think I'm a genius**
 
