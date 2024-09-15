@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarviskumar" alt="jarviskumar" /></a> </p> -->
 
-- 🔭 I’m currently working on **Tic Tac Toe Game**
+- 🔭 I’m currently working on **Changing Ui of Apps**
 
 - 👨‍💻 All of my projects are available at [Visit](https://github.com/jarviskumar)
 
